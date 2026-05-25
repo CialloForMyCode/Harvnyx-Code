@@ -1,6 +1,6 @@
 # Harvnyx
-[README для CN](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/README.md) [README для EN](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/README.en.md) [README для RU](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/README.ru.md)
-[Скачать](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/Historical.md)
+[README для CN](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.md) [README для EN](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.en.md) [README для RU](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.ru.md)
+[Скачать](https://github.com/CialloForMyCode/Harvnyx/blob/master/Historical.md)
 > **Примечание:** Этот список фокусируется на стабильности, управлении ресурсами, логических ошибках и поддерживаемости. **Проблемы безопасности (например, пароли в открытом виде, проверка плагинов) пока не включены.** Разработчиков сообщества просят устранять их в порядке приоритета.
 
 > **Предупреждение:** Не запускайте эту программу на вашем основном компьютере, так как она в настоящее время не гарантирует отсутствие утечки информации!
@@ -39,7 +39,7 @@ Harvnyx — это не просто простой интерпретатор �
 7. **TaskManager (`Program.cs`):** Сервис хостинга задач. Отслеживает процессы и асинхронные задачи, запущенные Harvnyx, назначает им ID и позволяет пользователям управлять ими и контролировать их через команду `tasks`.
 
 ## [Примечания по безопасности](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/QuestionList)
-[Примечания по безопасности для 0.1.80-alpha.2](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/QuestionList/0.1.80-alpha.2.md)
+[Примечания по безопасности для 0.1.80-alpha.2](https://github.com/CialloForMyCode/Harvnyx/blob/master/QuestionList/0.1.80-alpha.2.md)
 ## Руководство по установке
 ### Системные требования
 - **Операционная система:** Windows 7 SP1 / Windows 10 / Windows 11 (рекомендуется 64‑битная)
@@ -49,7 +49,7 @@ Harvnyx — это не просто простой интерпретатор �
 ### Способы установки
 
 #### Способ 1: Установка через пакет
-1. Перейдите на страницу [Releases](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/Program) и скачайте последнюю версию `Harvnyx.zip`
+1. Перейдите на страницу [Releases](https://github.com/CialloForMyCode/Harvnyx/blob/master/Program) и скачайте последнюю версию `Harvnyx.zip`
 2. Распакуйте архив в любую директорию (например, `C:\Harvnyx`)
 3. Зайдите в распакованную папку и дважды щёлкните `Harvnyx.exe` для запуска
 
@@ -88,10 +88,10 @@ dotnet run --project Harvnyx.csproj
 ## Участие в разработке
 Спасибо за ваш интерес к Harvnyx! Мы приветствуем любые формы участия, включая, но не ограничиваясь: сообщение об ошибках, предложение новых функций, улучшение документации, отправка кода.
 ### Кодекс поведения
-Пожалуйста, соблюдайте [лицензию](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/LICENSE.txt) и оставайтесь дружелюбными и уважительными.
+Пожалуйста, соблюдайте [лицензию](https://github.com/CialloForMyCode/Harvnyx/blob/master/LICENSE.txt) и оставайтесь дружелюбными и уважительными.
 ### Как внести вклад
 #### 1. Сообщить об ошибке или предложить новую функцию
-- Поищите на странице [Issues](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/issues), нет ли уже такой проблемы.
+- Поищите на странице [Issues](https://github.com/CialloForMyCode/Harvnyx/issues), нет ли уже такой проблемы.
 - Если нет, откройте новый Issue и выберите соответствующий шаблон:
   - **Отчёт об ошибке:** приложите информацию о системе, шаги воспроизведения, логи ошибок (используя вывод `print`).
   - **Запрос функции:** опишите сценарий использования и ожидаемое поведение.
