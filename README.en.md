@@ -1,6 +1,6 @@
 # Harvnyx
-[README for CN](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/README.md) [README for EN](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/README.en.md) [README for RU](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/README.ru.md)
-[Download](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/Historical.md)
+[README for CN](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.md) [README for EN](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.en.md) [README for RU](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.ru.md)
+[Download](https://github.com/CialloForMyCode/Harvnyx/blob/master/Historical.md)
 > **Note:** This list focuses on stability, resource management, logic flaws, and maintainability issues. **Security-related items (e.g., plaintext passwords, plugin validation) are not included for now.** Community developers are requested to address them in order of priority.
 
 > **Warning:** Do not run this program on your primary computer, as it currently does not guarantee that information will not be leaked!
@@ -39,7 +39,7 @@ The program consists of several core classes that work together:
 7. **TaskManager (`Program.cs`):** Task hosting service. Tracks processes and asynchronous tasks started by Harvnyx, assigns them IDs, and allows users to manage and monitor them via the `tasks` command.
 
 ## [Security Notes](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/QuestionList)
-[Security notes for 0.1.80-alpha.2](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/QuestionList/0.1.80-alpha.2.md)
+[Security notes for 0.1.80-alpha.2](https://github.com/CialloForMyCode/Harvnyx/blob/master/QuestionList/0.1.80-alpha.2.md)
 ## Installation Guide
 ### System Requirements
 - **Operating System:** Windows 7 SP1 / Windows 10 / Windows 11 (64‑bit recommended)
@@ -49,7 +49,7 @@ The program consists of several core classes that work together:
 ### Installation Methods
 
 #### Method 1: Install via package
-1. Go to the [Releases](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/Program) page and download the latest `Harvnyx.zip`
+1. Go to the [Releases](https://github.com/CialloForMyCode/Harvnyx/blob/master/Program) page and download the latest `Harvnyx.zip`
 2. Extract the archive to any directory (e.g., `C:\Harvnyx`)
 3. Enter the extracted folder and double‑click `Harvnyx.exe` to run
 
@@ -88,10 +88,10 @@ Simply delete the program folder. No registry entries remain.
 ## Contributing
 Thank you for your interest in Harvnyx! We welcome any form of contribution, including but not limited to: reporting bugs, suggesting new features, improving documentation, and submitting code.
 ### Code of Conduct
-Please abide by the [license](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/blob/master/LICENSE.txt) and remain friendly and respectful.
+Please abide by the [license](https://github.com/CialloForMyCode/Harvnyx/blob/master/LICENSE.txt) and remain friendly and respectful.
 ### How to Contribute
 #### 1. Report a Bug or Suggest a Feature
-- Search the [Issues](https://github.com/I-AM-SOLO-GetixPolaris/Harvnyx/issues) page to see if the same problem already exists.
+- Search the [Issues](https://github.com/CialloForMyCode/Harvnyx/issues) page to see if the same problem already exists.
 - If not, open a new Issue and choose the appropriate template:
   - **Bug report:** attach system environment, reproduction steps, error logs (using the output from `print`).
   - **Feature request:** describe the use case and expected behavior.
