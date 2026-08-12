@@ -1,4 +1,4 @@
-# Harvnyx
+# Harvnyx Code
 [README for CN](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.md) [README for EN](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.en.md) [README for RU](https://github.com/CialloForMyCode/Harvnyx/blob/master/README.ru.md)
 [下载](https://github.com/CialloForMyCode/Harvnyx/blob/master/Historical.md)
 > **说明:** 本清单聚焦于稳定性、资源管理、逻辑缺陷和可维护性问题，**暂不包含安全性相关条目**（如密码明文、插件校验等）。请社区开发者按优先级依次处理。
@@ -6,7 +6,7 @@
 > **注意:** 不要在您的主要计算机中运行该程序，因为该程序目前未确保信息不会泄露！
 ---
 ## 核心定位
-Harvnyx 不仅仅是一个简单的命令解释器，它更类似于一个集成式命令执行框架。它无缝融合了内部命令、外部 Windows 可执行文件以及通过插件扩展的命令，为用户提供了一个统一的交互入口。
+Harvnyx Code 不仅仅是一个简单的命令解释器，它更类似于一个集成式命令执行框架。它无缝融合了内部命令、外部 Windows 可执行文件以及通过插件扩展的命令，为用户提供了一个统一的交互入口。
 
 ## 技术架构与核心模块
 程序由几个核心协同工作的类组成：
